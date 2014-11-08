@@ -22,8 +22,7 @@ Any person who has been enrolled in a full-time degree program at Olin College i
 
 Section II: Composition 
 -----------------------
-1. The OAC is composed of two representatives from each graduating class in addition to an Executive Board.
-1. The OAC must ensure that each class has a Class Gift Captain to interface with the College on matters pertaining to the Class Gift. This role is not a voting member of the OAC. This role may be filled by an elected Class Representative or by another member of the OAA.
+1. The OAC is composed of one Class Representative from each graduating class in addition to an Executive Board. This representative serves as Class Gift Captain to interface with the College on matters pertaining to alumni donations.
 1. The OAC must ensure that at least two Reunion Representatives are chosen at least 18 months prior to a class’s reunion to work with the College in planning and executing the class’s reunion. This role may be filled by an elected Class Representative or by another member of the OAA.
 
 Section III: Leadership
@@ -78,18 +77,19 @@ Article V: Elections, Resignation and Impeachment
 
 Section I: Class Representatives
 --------------------------------
-1. Initially, each set of Class Representatives will be elected by that year’s graduating seniors prior to commencement. Only the OAA members of the graduating class may vote in subsequent elections for that class’s Class Representatives.
+1. Initially, each Class Representative will be elected by that year’s graduating seniors prior to commencement. Only the OAA members of the graduating class may vote in subsequent elections for that class’s Class Representative.
 1. The position of Class Representative for a given class will consist of three year terms until 15 years following the class’s graduation, at which time the terms will lengthen to 5 years.
 1. Regular elections for the position of Class Representative should be held concurrently with Executive Board elections, as described in Article V, Section II.
 1. Any interested alumnus may submit their application for Class Representative to the OAC President no less than two weeks prior to the election. The OAC President or their designee is responsible for publishing the date of each election at least 30 days prior to the election itself.    
 1. Voting will take place through a secret electronic ballot that will be tallied by the OAC President. The voting period will be at least two weeks but no more than one month long. 
 1. The transition between Class Representatives will occur directly following the announcement of the election results. 
 1. There is no limit on the number of terms that a given alumnus can serve as a Class Representative. 
-1. In order to impeach one of their Class Representatives, any alumnus of that class may submit an electronic impeachment petition to the OAC that bears the electronic signatures of at least 60% of the class. The impeached Class Representative is immediately removed from office.
+1. In order to impeach their Class Representative, any alumnus of that class may submit an electronic impeachment petition to the OAC that bears the electronic signatures of at least 60% of the class. The impeached Class Representative is immediately removed from office.
 1. Any member of the OAC may also submit a proposal to impeach a Class Representative. This must be announced to the class that elected the Representative at least two weeks prior to the vote. The class may overrule the impeachment proposal with a petition bearing electronic signatures of at least 50% of the class. A three-quarters voting quorum of the OAC is required for the impeachment vote to take place, and the member up for impeachment may not vote or be considered for quorum. Impeachment will occur if approved by at least 90% of the voting OAC members. The impeached Representative is immediately removed from office.
 1. Any Class Representative may resign by submitting a letter to the OAC President.
 1. If a Class Representative is impeached, resigns, is elected President, or is unable to perform his or her duties, then the OAC must organize a special election within a month of the vacancy to replace that representative. A request for applicants shall be sent to the members of the class who will have two weeks to respond prior to the election.  
     1. Voting will take place through a secret electronic ballot that will be tallied by the OAC President. The voting period will be at least one week. Newly elected officers will take office immediately and serve the remainder of the current term.
+1. If more than one Class Representative is currently serving a particular class, only one Class Representative will be elected in the next election.
 
 Section II: Executive Board
 ---------------------------
