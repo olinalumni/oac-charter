@@ -89,7 +89,7 @@ Section I: Class Representatives
 1. Any Class Representative may resign by submitting a letter to the OAC President.
 1. If a Class Representative is impeached, resigns, is elected President, or is unable to perform his or her duties, then the OAC must organize a special election within a month of the vacancy to replace that representative. A request for applicants shall be sent to the members of the class who will have two weeks to respond prior to the election.  
     1. Voting will take place through a secret electronic ballot that will be tallied by the OAC President. The voting period will be at least one week. Newly elected officers will take office immediately and serve the remainder of the current term.
-1. If more than one Class Representative is currently serving a particular class, only one Class Representative will be elected in the next election.
+1. If more than one Class Representative is currently representing a particular class, only one Class Representative will be elected in the next election.
 
 Section II: Executive Board
 ---------------------------
