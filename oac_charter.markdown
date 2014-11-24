@@ -4,7 +4,7 @@ Olin Alumni Council Charter
 Purpose
 =======
 
-The Olin Alumni Council (OAC) serves as the organizing body for Olin’s Alumni Association, which is open to all students who have been enrolled in a full-time degree program at Franklin W. Olin College of Engineering. The OAC fosters a spirit of association and fellowship among members and helps advance the mission of the College through its activities.
+The Olin Alumni Council (OAC) serves as the organizing body for Olin’s Alumni Association, which is open to all students who have been enrolled in a full-time degree program at the Olin College of Engineering. The OAC fosters a spirit of association and fellowship among members and helps advance the mission of the College through its activities.
 
 
 Membership

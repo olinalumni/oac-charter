@@ -4,13 +4,13 @@ Olin Alumni Council By-Laws
 Article I: Name
 ===============
 
-The name of the organization shall be known as the Olin Alumni Council (OAC) of the Franklin W. Olin College of Engineering Alumni Association. 
+The name of the organization shall be known as the Olin Alumni Council (OAC) of the Olin College of Engineering Alumni Association. 
 
 
 Article II: Purpose
 ===================
 
-As stated in the OAC Charter, the purpose of the OAC is to serve as the organizing body for Olin’s Alumni Association (OAA), which is open to all students who have been enrolled in a full-time degree program at Franklin W. Olin College of Engineering. The Olin Alumni Council fosters a spirit of association and fellowship among members and helps advance the mission of the College through its activities. 
+As stated in the OAC Charter, the purpose of the OAC is to serve as the organizing body for Olin’s Alumni Association (OAA), which is open to all students who have been enrolled in a full-time degree program at Olin College of Engineering. The Olin Alumni Council fosters a spirit of association and fellowship among members and helps advance the mission of the College through its activities. 
 
 
 Article III: Membership
