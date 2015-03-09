@@ -22,7 +22,8 @@ Any person who has been enrolled in a full-time degree program at Olin College i
 
 Section II: Composition 
 -----------------------
-1. The OAC is composed of one Class Representative from each graduating class in addition to an Executive Board. This representative serves as Class Gift Captain to interface with the College on matters pertaining to alumni donations.
+1. The OAC is composed of one representative from each graduating class in addition to an Executive Board.
+1. The OAC must ensure that each class has a Class Gift Captain to interface with the College on matters pertaining to the Class Gift. This role is not a voting member of the OAC. This role may be filled by an elected Class Representative or by another member of the OAA.
 1. The OAC must ensure that at least two Reunion Representatives are chosen at least 18 months prior to a class’s reunion to work with the College in planning and executing the class’s reunion. This role may be filled by an elected Class Representative or by another member of the OAA.
 
 Section III: Leadership
