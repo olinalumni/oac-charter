@@ -78,11 +78,11 @@ Article V: Elections, Resignation and Impeachment
 
 Section I: Process
 ------------------
-1. Elections will be administered by the OAC President on their designee.
+1. Elections will be administered by the OAC President or their designee.
 1. Elections will take place by secret electronic ballot.
 1. Elections will be announced and allow candidates to apply at least two weeks prior to the start of the election.
 1. Elections will have voting periods of at least two weeks.
-1. Regular elections will begin on the first day of classes of the academic year at Olin College.
+1. Regular elections will begin one week following Alumni Weekend.
 1. Transitions between incoming and outgoing officials will occur directly following the announcement of the election results.
 
 Section II: Class Representatives
