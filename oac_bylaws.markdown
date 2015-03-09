@@ -28,7 +28,7 @@ Section II: Composition
 
 Section III: Leadership
 -----------------------
-The OAC is led by an Executive Board elected by the Olin Alumni Association. Prior to the election of this Executive Board, the OAC will select an OAC representative to serve as Coordinator each year.
+The OAC is led by an Executive Board elected by the Olin Alumni Association.
 
 
 Article IV: Executive Board 
@@ -36,10 +36,7 @@ Article IV: Executive Board
 
 Section I: Composition
 ----------------------
-1. This Board shall be comprised of five officer positions: President-elect, President, Past President, Treasurer and Secretary. This Board will be elected for the first time in the fall of 2011 at the Alumni Weekend or a similar event.
-1. Prior to the election of the first Executive Board, the OAC will select an OAC member to serve as Coordinator of the OAC for the upcoming year. 
-    1. This selection will occur during the Fall OAC meeting and transition will occur directly following the meeting.
-    1. The Coordinator is responsible for organizing the OAC, serving as the alumni co-chair to the Alumni Relations Advisory Group (ARAG), delegating the other Executive Board responsibilities assigned below to the OAC membership, and acting as its spokesperson when appropriate.
+1. This Board shall be comprised of five officer positions: President-elect, President, Past President, Treasurer and Secretary.
 
 Section II: President-elect, President, and Past President
 ----------------------------------------------------------
@@ -66,7 +63,7 @@ Section IV: Secretary
 
 Section V	
 ---------
-Once formed, the Executive Board will serve as ex-officio alumni representatives to the ARAG.
+The Executive Board serves as ex-officio alumni representatives to the ARAG.
 
 Section VI
 ----------

@@ -10,7 +10,7 @@ The Olin Alumni Council (OAC) serves as the organizing body for Olin’s Alumni 
 Membership
 ==========
 
-The OAC is composed of two representatives from each graduating class in addition to an Executive Board beginning in 2011. Election, resignation and impeachment procedures are discussed in the OAC By-Laws.
+The OAC is composed of a representative from each graduating class in addition to an Executive Board. Election, resignation and impeachment procedures are discussed in the OAC By-Laws.
 
 
 Meetings
